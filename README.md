@@ -9,4 +9,6 @@ The **Citrix *StoreFront*** is a web portal for accessing UNL hosted software ap
 
 The `CitrixReceiver.exe` can be downloaded here: https://www.citrix.com/products/receiver/ (~ 40.2MB)
 
-The StoreFront portal can be accessed here: https://mydesktop.unl.edu/Citrix/UNLMyDesktopWeb/
+The **StoreFront** can be accessed here: https://mydesktop.unl.edu/Citrix/UNLMyDesktopWeb/
+
+![store-front](https://github.com/Infinite-Actuary/Citrix-Receiver/blob/master/images/StoreFront.PNG)
