@@ -7,3 +7,6 @@ The **Citrix *StoreFront*** is a web portal for accessing UNL hosted software ap
 * EVieww 9
 * GAUSS 16
 
+The `CitrixReceiver.exe` can be downloaded here: https://www.citrix.com/products/receiver/
+
+The StoreFront portal can be accessed here: https://mydesktop.unl.edu/Citrix/UNLMyDesktopWeb/
