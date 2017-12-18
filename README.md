@@ -19,6 +19,6 @@ The **StoreFront** can be accessed here: https://mydesktop.unl.edu/Citrix/UNLMyD
 
 * The official UNL Citrix Receiver [installation guide](https://cba.unl.edu/it-services/tutorials/documents/CitrixReceiverInstallation.pdf) contains a link to https://matador.unl.edu where the `Receiver-[0-9]{10}.exe` (~ 13.2 MB) can be downloaded. However, the server is eiter using weak security credentials or the certificate has expired:
 
-![chrome-warning](https://github.com/Infinite-Actuary/Citrix-Receiver/blob/master/images/chrome-matador.PNG?raw=true)
+![chrome-warning](https://github.com/Infinite-Actuary/Citrix-Receiver/blob/master/images/chrome-matador.PNG)
 
-![firefox-warning](https://github.com/Infinite-Actuary/Citrix-Receiver/blob/master/images/firefox-matador.PNG?raw=true)
+![firefox-warning](https://github.com/Infinite-Actuary/Citrix-Receiver/blob/master/images/firefox-matador.PNG)
