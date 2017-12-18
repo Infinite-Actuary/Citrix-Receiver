@@ -15,6 +15,10 @@ The **StoreFront** can be accessed here: https://mydesktop.unl.edu/Citrix/UNLMyD
 
 ## Additional Notes 
 
-* StoreFront applications can be accessed from your home network after connecting to the [UNL-VPN](https://github.com/Infinite-Actuary/UNL-VPN)
+* Running StoreFront applications from your home network requires connecting to the [UNL-VPN](https://github.com/Infinite-Actuary/UNL-VPN)
 
-* The official UNL Citrix Receiver [installation guide](https://cba.unl.edu/it-services/tutorials/documents/CitrixReceiverInstallation.pdf) contains a link to https://matador.unl.edu where the `Receiver-[0-9]{10}.exe` (~ 13.2 MB) can be downloaded.
+* The official UNL Citrix Receiver [installation guide](https://cba.unl.edu/it-services/tutorials/documents/CitrixReceiverInstallation.pdf) contains a link to https://matador.unl.edu where the `Receiver-[0-9]{10}.exe` (~ 13.2 MB) can be downloaded. However, the server is eiter using weak security credentials or the certificate has expired:
+
+![chrome-warning]()
+
+![firefox-warning]()
