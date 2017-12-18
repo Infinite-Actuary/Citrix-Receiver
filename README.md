@@ -15,10 +15,10 @@ The `CitrixReceiver.exe` can be downloaded here: https://www.citrix.com/products
 
 ## Additional Notes 
 
-* Running StoreFront applications from your home network requires connecting to the [UNL-VPN](https://github.com/Infinite-Actuary/UNL-VPN)
+* Running StoreFront applications from your home network requires connecting to the [UNL-VPN](https://github.com/Infinite-Actuary/UNL-VPN).
 
-* The official UNL Citrix Receiver [installation guide](https://cba.unl.edu/it-services/tutorials/documents/CitrixReceiverInstallation.pdf) contains a link to https://matador.unl.edu where the `Receiver-[0-9]{10}.exe` (~ 13.2 MB) can be downloaded. However, 
+* The official UNL Citrix Receiver [installation guide](https://cba.unl.edu/it-services/tutorials/documents/CitrixReceiverInstallation.pdf) contains a link to https://matador.unl.edu where the `Receiver-[0-9]{10}.exe` (~ 13.2 MB) can be downloaded.
 
 ```diff
-- the server is eiter using weak security credentials or the certificate has expired.
+- The server is currently using weak security credentials or the certificate has expired.
 ```
