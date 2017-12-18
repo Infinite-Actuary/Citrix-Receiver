@@ -7,10 +7,14 @@ The **Citrix *StoreFront*** is a web portal for accessing UNL hosted software ap
 * EViews 9
 * GAUSS 16
 
-The `CitrixReceiver.exe` can be downloaded here: https://www.citrix.com/products/receiver/ (~ 40.2MB)
+The `CitrixReceiver.exe` can be downloaded here: https://www.citrix.com/products/receiver/ (~ 40.2 MB)
 
 The **StoreFront** can be accessed here: https://mydesktop.unl.edu/Citrix/UNLMyDesktopWeb/
 
 ![store-front](https://github.com/Infinite-Actuary/Citrix-Receiver/blob/master/images/StoreFront.PNG)
 
-### Note: StoreFront applications can be accessed from your home network after connecting to the [UNL-VPN](https://github.com/Infinite-Actuary/UNL-VPN)
+## Additional Notes 
+
+* StoreFront applications can be accessed from your home network after connecting to the [UNL-VPN](https://github.com/Infinite-Actuary/UNL-VPN)
+
+* The official UNL Citrix Receiver [installation guide](https://cba.unl.edu/it-services/tutorials/documents/CitrixReceiverInstallation.pdf) contains a link to https://matador.unl.edu where the `Receiver-[0-9]{10}.exe` (~ 13.2 MB) can be downloaded.
